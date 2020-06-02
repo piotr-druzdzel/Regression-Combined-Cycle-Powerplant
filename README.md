@@ -3,7 +3,7 @@ Linear Regression Project.
 Features consist of hourly average ambient variables Temperature (T), Ambient Pressure (AP), 
 Relative Humidity (RH) and Exhaust Vacuum (V) to predict the net hourly electrical energy output (EP) of the plant.
 
-The dataset contains 9568 data points collected from a Combined Cycle Power Plant over 6 years (2006-2011), 
+"The dataset contains 9568 data points collected from a Combined Cycle Power Plant over 6 years (2006-2011), 
 when the power plant was set to work with full load. Features consist of hourly average ambient variables Temperature (T), 
 Ambient Pressure (AP), Relative Humidity (RH) and Exhaust Vacuum (V) to predict the net hourly electrical energy output (EP)  of the plant.
 A combined cycle power plant (CCPP) is composed of gas turbines (GT), steam turbines (ST) and heat recovery steam generators. 
@@ -26,4 +26,4 @@ http://dx.doi.org/10.1016/j.ijepes.2014.02.027.
 Heysem Kaya, Pınar Tüfekci , Sadık Fikret Gürgen: 
 Local and Global Learning Methods for Predicting Power of a Combined Gas & Steam Turbine, 
 Proceedings of the International Conference on Emerging Trends in Computer and Electronics Engineering ICETCEE 2012, 
-pp. 13-18 (Mar. 2012, Dubai)
+pp. 13-18 (Mar. 2012, Dubai)"

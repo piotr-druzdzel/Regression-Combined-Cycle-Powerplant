@@ -1,5 +1,0 @@
-LR
-SVR
-DT
-RF
-XGB
